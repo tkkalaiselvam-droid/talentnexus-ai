@@ -39,3 +39,7 @@ npm install
 npm run dev
 ```
 *Web client loads on: http://localhost:5173*
+## 🔗 Live Demo
+👉 [Launch TalentNexus AI](https://spectacular-druid-de0ac9.netlify.app/)
+
+**Note:** This link shows the frontend only. It displays the UI/UX layout. The backend is not connected.
